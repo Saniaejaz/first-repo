@@ -1,3 +1,3 @@
 # first-repo
-! [hello programmer] (http://www.racexpert.com/images/racexpert-programmer.png)
+! [pagal hogayi kya] (http://www.racexpert.com/images/racexpert-programmer.png)
 
